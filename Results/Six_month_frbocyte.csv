@@ -1,0 +1,4 @@
+status,count,mean,std,min,max
+Control,0.0,,,,
+ipf,73.0,5.49,4.88,0.04,20.25
+nsip,14.0,8.39,7.29,0.63,24.1
